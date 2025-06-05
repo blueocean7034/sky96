@@ -913,6 +913,7 @@ static m64p_media_loader l_media_loader =
  */
 __attribute__ ((visibility("default")))
 #endif
+/* Entry point for the emulator */
 int main(int argc, char *argv[])
 {
     int i;
